@@ -8,7 +8,7 @@ A Streamlit app built around a fine-tuned conversational AI that simulates a car
 
 **1. Clone the repository**
 
-git clone https://github.com/yourusername/virtual-girlfriend-chat.git
+git clone https://github.com/ErikElcsics/Custom-Virtual-Companion-Chatbot-Using-Microsoft-DialoGPT-medium-Model-Streamlit-Python.git
 cd virtual-girlfriend-chat
 
 
