@@ -4,7 +4,7 @@ import torch
 import random
 
 
-# Load a more suitable model for girlfriend-like conversations
+# Load model 
 @st.cache_resource
 def load_model():
     tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-medium")
