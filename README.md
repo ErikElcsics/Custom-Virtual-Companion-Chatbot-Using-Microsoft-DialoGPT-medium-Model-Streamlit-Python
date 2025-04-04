@@ -102,8 +102,27 @@ This app uses [DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium
   - New user input is encoded, appended to past context, and fed to the model for generation.
 - **Customization Engine**: Based on user input and personality type, the app tweaks the raw output for emotional realism.
 
-
-
 ## ❤️ Credits
  
-Inspired by AI-human interaction and the future of emotionally intelligent agents.
+Inspired by AI-human interaction and the future of emotionally intelligent agents. LOL
+
+![image](https://github.com/user-attachments/assets/677c7ecf-2d67-4dda-bd24-471695f42249)
+
+![image](https://github.com/user-attachments/assets/0d8d9afe-937d-450d-949b-0a9d34041307)
+
+![image](https://github.com/user-attachments/assets/13bee2bb-cb79-4aea-81e4-341ff04e2bbd)
+
+![image](https://github.com/user-attachments/assets/87099135-6b09-4578-95ba-62959b2c8782)
+
+![image](https://github.com/user-attachments/assets/9884cda6-5e54-4e0d-8378-5802f4f83645)
+
+![image](https://github.com/user-attachments/assets/dba699cc-f36f-404d-abea-17cd759c2037)
+
+![image](https://github.com/user-attachments/assets/2de15894-57c9-4ace-a119-fe8f1602cb04)
+
+
+
+
+
+
+
